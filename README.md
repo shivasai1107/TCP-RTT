@@ -1,6 +1,4 @@
-=====================================================================================
-=======================================README=======================================
-=====================================================================================
+ReadME
 
 This folder contains:
 1. flask
@@ -161,7 +159,4 @@ Query:   select mean(“rtt”) from TCP_RTT
 Group by “STREAM” -> third graph panel
 Query:  Select ‘rtt’ from TCP_RTT & GROUP_BY (stream) #stream == (SOURCEIP:SRC_PORT, DESTINATION_IP: DST_PORT)
 
-
-In influx DB data is stored as shown below:
-Timestamp                                                  Round trip time                           tcp tuple(IP src:port,IP DST:port)
  
