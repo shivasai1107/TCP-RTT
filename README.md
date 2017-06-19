@@ -1,3 +1,9 @@
+Members of this project
+Naga Shruti Adidamu
+Shanmukha Sai Bheemishetty
+Vignesh Kuna
+Gayatri Chadalapaka
+Shiva Sai Sunkari
 ReadME
 
 This folder contains:
